@@ -1,0 +1,200 @@
+Cycle No.  0| DAT: 80, TRD: 0, SD: x, TRIGTM: x
+RUNNING
+Data received: 80 -> 10000000
+
+Cycle No.  1| DAT: 8c, TRD: 0, SD: x, TRIGTM: x
+RUNNING
+Data received: 8c -> 10001100
+
+Cycle No.  2| DAT: 98, TRD: 0, SD: x, TRIGTM: x
+RUNNING
+Data received: 98 -> 10011000
+
+Cycle No.  3| DAT: a4, TRD: 0, SD: x, TRIGTM: x
+RUNNING
+Data received: a4 -> 10100100
+
+Cycle No.  4| DAT: b0, TRD: 0, SD: x, TRIGTM: x
+RUNNING
+Data received: b0 -> 10110000
+
+Cycle No.  5| DAT: bb, TRD: 0, SD: x, TRIGTM: x
+RUNNING
+Data received: bb -> 10111011
+
+Cycle No.  6| DAT: c6, TRD: 0, SD: x, TRIGTM: x
+RUNNING
+Data received: c6 -> 11000110
+
+Cycle No.  7| DAT: d0, TRD: 0, SD: x, TRIGTM: x
+RUNNING
+Data received: d0 -> 11010000
+
+Cycle No.  8| DAT: d9, TRD: 0, SD: x, TRIGTM: x
+RUNNING
+Data received: d9 -> 11011001
+
+Cycle No.  9| DAT: e1, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: e1 -> 11100001
+
+Cycle No. 10| DAT: e8, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: e8 -> 11101000
+
+Cycle No. 11| DAT: ee, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: ee -> 11101110
+
+Cycle No. 12| DAT: f3, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: f3 -> 11110011
+
+Cycle No. 13| DAT: f7, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: f7 -> 11110111
+
+Cycle No. 14| DAT: fa, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: fa -> 11111010
+
+Cycle No. 15| DAT: fb, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: fb -> 11111011
+
+Cycle No. 16| DAT: 80, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: 80 -> 10000000
+
+Cycle No. 17| DAT: 8c, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: 8c -> 10001100
+
+Cycle No. 18| DAT: 98, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: 98 -> 10011000
+
+Cycle No. 19| DAT: a4, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: a4 -> 10100100
+
+Cycle No. 20| DAT: b0, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: b0 -> 10110000
+
+Cycle No. 21| DAT: bb, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: bb -> 10111011
+
+Cycle No. 22| DAT: c6, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: c6 -> 11000110
+
+Cycle No. 23| DAT: d0, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: d0 -> 11010000
+
+Cycle No. 24| DAT: d9, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+Data received: d9 -> 11011001
+
+Cycle No. 25| DAT: e1, TRD: 0, SD: x, TRIGTM: 9
+TRIGGERED
+TRANSITION TO BUFFER_SEND
+
+Cycle No. 26| DAT: e1, TRD: 1, SD: x, TRIGTM: 9
+
+Cycle No. 27| DAT: e1, TRD: 1, SD: x, TRIGTM: 9
+BUFFER_SEND
+
+Cycle No. 28| DAT: e1, TRD: 1, SD: 1, TRIGTM: 9
+
+Cycle No. 29| DAT: e1, TRD: 1, SD: 1, TRIGTM: 9
+Sending start bit
+
+Cycle No. 30| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  7 for data 10000000 (80)
+
+Cycle No. 31| DAT: e1, TRD: 1, SD: 1, TRIGTM: 9
+Sending bit  6 for data 10000000 (80)
+
+Cycle No. 32| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  5 for data 10000000 (80)
+
+Cycle No. 33| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  4 for data 10000000 (80)
+
+Cycle No. 34| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  3 for data 10000000 (80)
+
+Cycle No. 35| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  2 for data 10000000 (80)
+
+Cycle No. 36| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  1 for data 10000000 (80)
+
+Cycle No. 37| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  0 for data 10000000 (80)
+
+Cycle No. 38| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending start bit
+
+Cycle No. 39| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  7 for data 10001100 (8c)
+
+Cycle No. 40| DAT: e1, TRD: 1, SD: 1, TRIGTM: 9
+Sending bit  6 for data 10001100 (8c)
+
+Cycle No. 41| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  5 for data 10001100 (8c)
+
+|Stoping the Clock| 
+
+
+Cycle No. 42| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  4 for data 10001100 (8c)
+
+Cycle No. 43| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+
+Cycle No. 44| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+
+Cycle No. 45| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+
+Cycle No. 46| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+
+Cycle No. 47| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+
+Cycle No. 48| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+
+Cycle No. 49| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+
+Cycle No. 50| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+
+Cycle No. 51| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+
+|Restarting the Clock|
+
+
+Cycle No. 52| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  3 for data 10001100 (8c)
+
+Cycle No. 53| DAT: e1, TRD: 1, SD: 1, TRIGTM: 9
+Sending bit  2 for data 10001100 (8c)
+
+Cycle No. 54| DAT: e1, TRD: 1, SD: 1, TRIGTM: 9
+Sending bit  1 for data 10001100 (8c)
+
+Cycle No. 55| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  0 for data 10001100 (8c)
+
+Cycle No. 56| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending start bit
+
+Cycle No. 57| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  7 for data 10011000 (98)
+
+Cycle No. 58| DAT: e1, TRD: 1, SD: 1, TRIGTM: 9
+Sending bit  6 for data 10011000 (98)
+
+Cycle No. 59| DAT: e1, TRD: 1, SD: 0, TRIGTM: 9
+Sending bit  5 for data 10011000 (98)

@@ -1,0 +1,385 @@
+RESET
+RESET
+RESET
+RESET
+RESET
+RESET
+RESET
+RESET
+RESET
+RESET
+RUNNING
+Data received: 80 -> 10000000
+RUNNING
+Data received: 8c -> 10001100
+RUNNING
+Data received: 98 -> 10011000
+RUNNING
+Data received: a4 -> 10100100
+RUNNING
+Data received: b0 -> 10110000
+RUNNING
+Data received: bb -> 10111011
+RUNNING
+Data received: c6 -> 11000110
+RUNNING
+Data received: d0 -> 11010000
+RUNNING
+Data received: d9 -> 11011001
+TRIGGERED
+Data received: e1 -> 11100001
+TRIGGERED
+Data received: e8 -> 11101000
+TRIGGERED
+Data received: ee -> 11101110
+TRIGGERED
+Data received: f3 -> 11110011
+TRIGGERED
+Data received: f7 -> 11110111
+TRIGGERED
+Data received: fa -> 11111010
+TRIGGERED
+Data received: fb -> 11111011
+TRIGGERED
+Data received: 80 -> 10000000
+TRIGGERED
+Data received: 8c -> 10001100
+TRIGGERED
+Data received: 98 -> 10011000
+TRIGGERED
+Data received: a4 -> 10100100
+TRIGGERED
+Data received: b0 -> 10110000
+TRIGGERED
+Data received: bb -> 10111011
+TRIGGERED
+Data received: c6 -> 11000110
+TRIGGERED
+Data received: d0 -> 11010000
+TRIGGERED
+Data received: d9 -> 11011001
+TRIGGERED
+TRANSITION TO BUFFER_SEND
+Trigger detected at time                  385
+BUFFER_SEND
+Sending start bit
+Sending bit  7 for data 10000000 (80)
+Sending bit  6 for data 10000000 (80)
+Sending bit  5 for data 10000000 (80)
+Sending bit  4 for data 10000000 (80)
+Sending bit  3 for data 10000000 (80)
+Sending bit  2 for data 10000000 (80)
+Sending bit  1 for data 10000000 (80)
+Sending bit  0 for data 10000000 (80)
+Sending start bit
+Sending bit  7 for data 10001100 (8c)
+Sending bit  6 for data 10001100 (8c)
+Sending bit  5 for data 10001100 (8c)
+Sending bit  4 for data 10001100 (8c)
+Sending bit  3 for data 10001100 (8c)
+Sending bit  2 for data 10001100 (8c)
+Sending bit  1 for data 10001100 (8c)
+Sending bit  0 for data 10001100 (8c)
+Sending start bit
+Sending bit  7 for data 10011000 (98)
+Sending bit  6 for data 10011000 (98)
+Sending bit  5 for data 10011000 (98)
+Sending bit  4 for data 10011000 (98)
+Sending bit  3 for data 10011000 (98)
+Sending bit  2 for data 10011000 (98)
+Sending bit  1 for data 10011000 (98)
+Sending bit  0 for data 10011000 (98)
+Sending start bit
+Sending bit  7 for data 10100100 (a4)
+Sending bit  6 for data 10100100 (a4)
+Sending bit  5 for data 10100100 (a4)
+Sending bit  4 for data 10100100 (a4)
+Sending bit  3 for data 10100100 (a4)
+Sending bit  2 for data 10100100 (a4)
+Sending bit  1 for data 10100100 (a4)
+Sending bit  0 for data 10100100 (a4)
+Sending start bit
+Sending bit  7 for data 10110000 (b0)
+Sending bit  6 for data 10110000 (b0)
+Sending bit  5 for data 10110000 (b0)
+Sending bit  4 for data 10110000 (b0)
+Sending bit  3 for data 10110000 (b0)
+Sending bit  2 for data 10110000 (b0)
+Sending bit  1 for data 10110000 (b0)
+Sending bit  0 for data 10110000 (b0)
+Sending start bit
+Sending bit  7 for data 10111011 (bb)
+Sending bit  6 for data 10111011 (bb)
+Sending bit  5 for data 10111011 (bb)
+Sending bit  4 for data 10111011 (bb)
+Sending bit  3 for data 10111011 (bb)
+Sending bit  2 for data 10111011 (bb)
+Sending bit  1 for data 10111011 (bb)
+Sending bit  0 for data 10111011 (bb)
+Sending start bit
+Sending bit  7 for data 11000110 (c6)
+Sending bit  6 for data 11000110 (c6)
+Sending bit  5 for data 11000110 (c6)
+Sending bit  4 for data 11000110 (c6)
+Sending bit  3 for data 11000110 (c6)
+Sending bit  2 for data 11000110 (c6)
+Sending bit  1 for data 11000110 (c6)
+Sending bit  0 for data 11000110 (c6)
+Sending start bit
+Sending bit  7 for data 11010000 (d0)
+Sending bit  6 for data 11010000 (d0)
+Sending bit  5 for data 11010000 (d0)
+Sending bit  4 for data 11010000 (d0)
+Sending bit  3 for data 11010000 (d0)
+Sending bit  2 for data 11010000 (d0)
+Sending bit  1 for data 11010000 (d0)
+Sending bit  0 for data 11010000 (d0)
+Sending start bit
+Sending bit  7 for data 11011001 (d9)
+Sending bit  6 for data 11011001 (d9)
+Sending bit  5 for data 11011001 (d9)
+Sending bit  4 for data 11011001 (d9)
+Sending bit  3 for data 11011001 (d9)
+Sending bit  2 for data 11011001 (d9)
+Sending bit  1 for data 11011001 (d9)
+Sending bit  0 for data 11011001 (d9)
+Sending start bit
+Sending bit  7 for data 11100001 (e1)
+Sending bit  6 for data 11100001 (e1)
+Sending bit  5 for data 11100001 (e1)
+Sending bit  4 for data 11100001 (e1)
+Sending bit  3 for data 11100001 (e1)
+Sending bit  2 for data 11100001 (e1)
+Sending bit  1 for data 11100001 (e1)
+Sending bit  0 for data 11100001 (e1)
+Sending start bit
+Sending bit  7 for data 11101000 (e8)
+Sending bit  6 for data 11101000 (e8)
+Sending bit  5 for data 11101000 (e8)
+Sending bit  4 for data 11101000 (e8)
+Sending bit  3 for data 11101000 (e8)
+Sending bit  2 for data 11101000 (e8)
+Sending bit  1 for data 11101000 (e8)
+Sending bit  0 for data 11101000 (e8)
+Sending start bit
+Sending bit  7 for data 11101110 (ee)
+Sending bit  6 for data 11101110 (ee)
+Sending bit  5 for data 11101110 (ee)
+Sending bit  4 for data 11101110 (ee)
+Sending bit  3 for data 11101110 (ee)
+Sending bit  2 for data 11101110 (ee)
+Sending bit  1 for data 11101110 (ee)
+Sending bit  0 for data 11101110 (ee)
+Sending start bit
+Sending bit  7 for data 11110011 (f3)
+Sending bit  6 for data 11110011 (f3)
+Sending bit  5 for data 11110011 (f3)
+Sending bit  4 for data 11110011 (f3)
+Sending bit  3 for data 11110011 (f3)
+Sending bit  2 for data 11110011 (f3)
+Sending bit  1 for data 11110011 (f3)
+Sending bit  0 for data 11110011 (f3)
+Sending start bit
+Sending bit  7 for data 11110111 (f7)
+Sending bit  6 for data 11110111 (f7)
+Sending bit  5 for data 11110111 (f7)
+Sending bit  4 for data 11110111 (f7)
+Sending bit  3 for data 11110111 (f7)
+Sending bit  2 for data 11110111 (f7)
+Sending bit  1 for data 11110111 (f7)
+Sending bit  0 for data 11110111 (f7)
+Sending start bit
+Sending bit  7 for data 11111010 (fa)
+Sending bit  6 for data 11111010 (fa)
+Sending bit  5 for data 11111010 (fa)
+Sending bit  4 for data 11111010 (fa)
+Sending bit  3 for data 11111010 (fa)
+Sending bit  2 for data 11111010 (fa)
+Sending bit  1 for data 11111010 (fa)
+Sending bit  0 for data 11111010 (fa)
+Sending start bit
+Sending bit  7 for data 11111011 (fb)
+Sending bit  6 for data 11111011 (fb)
+Sending bit  5 for data 11111011 (fb)
+Sending bit  4 for data 11111011 (fb)
+Sending bit  3 for data 11111011 (fb)
+Sending bit  2 for data 11111011 (fb)
+Sending bit  1 for data 11111011 (fb)
+Sending bit  0 for data 11111011 (fb)
+Sending start bit
+Sending bit  7 for data 10000000 (80)
+Sending bit  6 for data 10000000 (80)
+Sending bit  5 for data 10000000 (80)
+Sending bit  4 for data 10000000 (80)
+Sending bit  3 for data 10000000 (80)
+Sending bit  2 for data 10000000 (80)
+Sending bit  1 for data 10000000 (80)
+Sending bit  0 for data 10000000 (80)
+Sending start bit
+Sending bit  7 for data 10001100 (8c)
+Sending bit  6 for data 10001100 (8c)
+Sending bit  5 for data 10001100 (8c)
+Sending bit  4 for data 10001100 (8c)
+Sending bit  3 for data 10001100 (8c)
+Sending bit  2 for data 10001100 (8c)
+Sending bit  1 for data 10001100 (8c)
+Sending bit  0 for data 10001100 (8c)
+Sending start bit
+Sending bit  7 for data 10011000 (98)
+Sending bit  6 for data 10011000 (98)
+Sending bit  5 for data 10011000 (98)
+Sending bit  4 for data 10011000 (98)
+Sending bit  3 for data 10011000 (98)
+Sending bit  2 for data 10011000 (98)
+Sending bit  1 for data 10011000 (98)
+Sending bit  0 for data 10011000 (98)
+Sending start bit
+Sending bit  7 for data 10100100 (a4)
+Sending bit  6 for data 10100100 (a4)
+Sending bit  5 for data 10100100 (a4)
+Sending bit  4 for data 10100100 (a4)
+Sending bit  3 for data 10100100 (a4)
+Sending bit  2 for data 10100100 (a4)
+Sending bit  1 for data 10100100 (a4)
+Sending bit  0 for data 10100100 (a4)
+Sending start bit
+Sending bit  7 for data 10110000 (b0)
+Sending bit  6 for data 10110000 (b0)
+Sending bit  5 for data 10110000 (b0)
+Sending bit  4 for data 10110000 (b0)
+Sending bit  3 for data 10110000 (b0)
+Sending bit  2 for data 10110000 (b0)
+Sending bit  1 for data 10110000 (b0)
+Sending bit  0 for data 10110000 (b0)
+Sending start bit
+Sending bit  7 for data 10111011 (bb)
+Sending bit  6 for data 10111011 (bb)
+Sending bit  5 for data 10111011 (bb)
+Sending bit  4 for data 10111011 (bb)
+Sending bit  3 for data 10111011 (bb)
+Sending bit  2 for data 10111011 (bb)
+Sending bit  1 for data 10111011 (bb)
+Sending bit  0 for data 10111011 (bb)
+Sending start bit
+Sending bit  7 for data 11000110 (c6)
+Sending bit  6 for data 11000110 (c6)
+Sending bit  5 for data 11000110 (c6)
+Sending bit  4 for data 11000110 (c6)
+Sending bit  3 for data 11000110 (c6)
+Sending bit  2 for data 11000110 (c6)
+Sending bit  1 for data 11000110 (c6)
+Sending bit  0 for data 11000110 (c6)
+Sending start bit
+Sending bit  7 for data 11010000 (d0)
+Sending bit  6 for data 11010000 (d0)
+Sending bit  5 for data 11010000 (d0)
+Sending bit  4 for data 11010000 (d0)
+Sending bit  3 for data 11010000 (d0)
+Sending bit  2 for data 11010000 (d0)
+Sending bit  1 for data 11010000 (d0)
+Sending bit  0 for data 11010000 (d0)
+Sending start bit
+Sending bit  7 for data 11011001 (d9)
+Sending bit  6 for data 11011001 (d9)
+Sending bit  5 for data 11011001 (d9)
+Sending bit  4 for data 11011001 (d9)
+Sending bit  3 for data 11011001 (d9)
+Sending bit  2 for data 11011001 (d9)
+Sending bit  1 for data 11011001 (d9)
+Sending bit  0 for data 11011001 (d9)
+Sending start bit
+Sending bit  7 for data 00000000 (00)
+Sending bit  6 for data 00000000 (00)
+Sending bit  5 for data 00000000 (00)
+Sending bit  4 for data 00000000 (00)
+Sending bit  3 for data 00000000 (00)
+Sending bit  2 for data 00000000 (00)
+Sending bit  1 for data 00000000 (00)
+Sending bit  0 for data 00000000 (00)
+Sending start bit
+Sending bit  7 for data 00000000 (00)
+Sending bit  6 for data 00000000 (00)
+Sending bit  5 for data 00000000 (00)
+Sending bit  4 for data 00000000 (00)
+Sending bit  3 for data 00000000 (00)
+Sending bit  2 for data 00000000 (00)
+Sending bit  1 for data 00000000 (00)
+Sending bit  0 for data 00000000 (00)
+Sending start bit
+Sending bit  7 for data 00000000 (00)
+Sending bit  6 for data 00000000 (00)
+Sending bit  5 for data 00000000 (00)
+Sending bit  4 for data 00000000 (00)
+Sending bit  3 for data 00000000 (00)
+Sending bit  2 for data 00000000 (00)
+Sending bit  1 for data 00000000 (00)
+Sending bit  0 for data 00000000 (00)
+Sending start bit
+Sending bit  7 for data 00000000 (00)
+Sending bit  6 for data 00000000 (00)
+Sending bit  5 for data 00000000 (00)
+Sending bit  4 for data 00000000 (00)
+Sending bit  3 for data 00000000 (00)
+Sending bit  2 for data 00000000 (00)
+Sending bit  1 for data 00000000 (00)
+Sending bit  0 for data 00000000 (00)
+Sending start bit
+Sending bit  7 for data 00000000 (00)
+Sending bit  6 for data 00000000 (00)
+Sending bit  5 for data 00000000 (00)
+Sending bit  4 for data 00000000 (00)
+Sending bit  3 for data 00000000 (00)
+Sending bit  2 for data 00000000 (00)
+Sending bit  1 for data 00000000 (00)
+Sending bit  0 for data 00000000 (00)
+Sending start bit
+Sending bit  7 for data 00000000 (00)
+Sending bit  6 for data 00000000 (00)
+Sending bit  5 for data 00000000 (00)
+Sending bit  4 for data 00000000 (00)
+Sending bit  3 for data 00000000 (00)
+Sending bit  2 for data 00000000 (00)
+Sending bit  1 for data 00000000 (00)
+Sending bit  0 for data 00000000 (00)
+Sending start bit
+Sending bit  7 for data 00000000 (00)
+Sending bit  6 for data 00000000 (00)
+Sending bit  5 for data 00000000 (00)
+Sending bit  4 for data 00000000 (00)
+Sending bit  3 for data 00000000 (00)
+Sending bit  2 for data 00000000 (00)
+Sending bit  1 for data 00000000 (00)
+Sending bit  0 for data 00000000 (00)
+Data transfer completed at time                 3305
+Serial data value at index           0: 128 -> in hex = 80 -> in binary = 10000000
+Serial data value at index           8: 140 -> in hex = 8c -> in binary = 10001100
+Serial data value at index          16: 152 -> in hex = 98 -> in binary = 10011000
+Serial data value at index          24: 164 -> in hex = a4 -> in binary = 10100100
+Serial data value at index          32: 176 -> in hex = b0 -> in binary = 10110000
+Serial data value at index          40: 187 -> in hex = bb -> in binary = 10111011
+Serial data value at index          48: 198 -> in hex = c6 -> in binary = 11000110
+Serial data value at index          56: 208 -> in hex = d0 -> in binary = 11010000
+Serial data value at index          64: 217 -> in hex = d9 -> in binary = 11011001
+Serial data value at index          72: 225 -> in hex = e1 -> in binary = 11100001
+Serial data value at index          80: 232 -> in hex = e8 -> in binary = 11101000
+Serial data value at index          88: 238 -> in hex = ee -> in binary = 11101110
+Serial data value at index          96: 243 -> in hex = f3 -> in binary = 11110011
+Serial data value at index         104: 247 -> in hex = f7 -> in binary = 11110111
+Serial data value at index         112: 250 -> in hex = fa -> in binary = 11111010
+Serial data value at index         120: 251 -> in hex = fb -> in binary = 11111011
+Serial data value at index         128: 128 -> in hex = 80 -> in binary = 10000000
+Serial data value at index         136: 140 -> in hex = 8c -> in binary = 10001100
+Serial data value at index         144: 152 -> in hex = 98 -> in binary = 10011000
+Serial data value at index         152: 164 -> in hex = a4 -> in binary = 10100100
+Serial data value at index         160: 176 -> in hex = b0 -> in binary = 10110000
+Serial data value at index         168: 187 -> in hex = bb -> in binary = 10111011
+Serial data value at index         176: 198 -> in hex = c6 -> in binary = 11000110
+Serial data value at index         184: 208 -> in hex = d0 -> in binary = 11010000
+Serial data value at index         192: 217 -> in hex = d9 -> in binary = 11011001
+Serial data value at index         200:   0 -> in hex = 00 -> in binary = 00000000
+Serial data value at index         208:   0 -> in hex = 00 -> in binary = 00000000
+Serial data value at index         216:   0 -> in hex = 00 -> in binary = 00000000
+Serial data value at index         224:   0 -> in hex = 00 -> in binary = 00000000
+Serial data value at index         232:   0 -> in hex = 00 -> in binary = 00000000
+Serial data value at index         240:   0 -> in hex = 00 -> in binary = 00000000
+Serial data value at index         248:   0 -> in hex = 00 -> in binary = 00000000
